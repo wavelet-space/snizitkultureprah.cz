@@ -1,2 +1,3 @@
-# https-www.snizitkultureprah.cz-
+# snizitkultureprah.cz
+
 https://www.snizitkultureprah.cz/
